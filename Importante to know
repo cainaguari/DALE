@@ -1,0 +1,14 @@
+THE COMUNICATION ISSUE
+
+The Arduino has a communication protocol called Serial. This is what makes Arduino "talk" with your Windows computer.
+
+When you make a MIDI controller, the communication system changes. In this case, what now makes the comunication between Arduino 
+and your Windows is MIDI (Musical Instrument Digital Interface). So, you will need a translator to make your computer
+understand Arduino.
+
+And this translator is Hairless MIDI. You will ever need this open when Arduino is connected to Windows talking in MIDI.
+
+You can download it here:
+http://projectgus.github.io/hairless-midiserial/
+
+
